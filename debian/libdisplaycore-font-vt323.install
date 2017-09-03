@@ -19,4 +19,4 @@ VT32327.cpp libraries/DisplayCore/VT323
 VT32328.cpp libraries/DisplayCore/VT323
 VT32329.cpp libraries/DisplayCore/VT323
 VT32330.cpp libraries/DisplayCore/VT323
-VT.h libraries/DisplayCore/VT323
+VT323.h libraries/DisplayCore/VT323
