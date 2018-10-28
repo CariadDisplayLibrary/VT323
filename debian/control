@@ -12,4 +12,4 @@ XBSC-Group: DisplayCore
 XBSC-Subgroup: Fonts
 Depends: libdisplaycore-core
 Provides: VT323.h
-Description: VT323 font for DisplayCore
+Description: VT323
