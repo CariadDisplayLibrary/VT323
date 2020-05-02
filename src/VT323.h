@@ -1,7 +1,7 @@
 #ifndef _VT_H
 #define _VT_H
 
-#include <DisplayCore.h>
+#include <Cariad.h>
 
 namespace Fonts {
     extern const uint8_t VT32310[];

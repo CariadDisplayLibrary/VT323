@@ -1,15 +1,16 @@
-Source: libdisplaycore-font-vt323
+Source: libcariad-font-vt323
 Section: main
 Priority: extra
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
 
-Package: libdisplaycore-font-vt323
+Package: libcariad-font-vt323
+Replaces: libdisplaycore-font-vt323
 Section: main
 Architecture: all
-XBSC-Group: DisplayCore
+XBSC-Group: Cariad
 XBSC-Subgroup: Fonts
-Depends: libdisplaycore-core
+Depends: libcariad-core
 Provides: VT323.h
 Description: VT323
